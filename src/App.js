@@ -1,5 +1,6 @@
 import React from 'react';
 import './index.css';
+import './index.scss';
 import logoBBC from '../src/assets/logo-bbc.png';
 import logoForbes from '../src/assets/logo-forbes.png';
 import logoTech from '../src/assets/logo-techcrunch.png';
